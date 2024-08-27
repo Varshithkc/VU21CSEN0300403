@@ -1,0 +1,5 @@
+com\neo\muskan\entities\Product.class
+com\neo\muskan\controllers\ProductController.class
+com\neo\muskan\services\ProductServices.class
+com\neo\muskan\dao\ProductRepo.class
+com\neo\muskan\MuskanApplication.class
